@@ -22,7 +22,7 @@
     "@latticexyz/world": "link:../../../../packages/world",
     "contracts": "workspace:*",
     "lodash": "^4.17.21",
-    "phaser": "3.60.0-beta.14",
+    "phaser": "3.90.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "rxjs": "7.5.5",
